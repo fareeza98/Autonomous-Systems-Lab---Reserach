@@ -1,0 +1,11 @@
+Constant speed: 0.5
+Actual landmark locations: 
+Landmark 0: [-2, -2]
+Landmark 1: [0.75, -1.25]
+Landmark 2: [-1.1, 0.8]
+Landmark 3: [1.5, 2.1]
+
+Robot localization data: time, state(x,y,theta), control input at this state(thetaDot), landmark sensor values (global frame, (x,y), in numerical order) 
+Landmark localization data: time, robot state, landmark control (dx,dy - same for all landmarks), sampled landmark state (global frame, (x,y), in numerical order 
+Sensor noise values: [0.1, 0.1]
+Processd noise values: [0.05, 0.05, 0.1]
